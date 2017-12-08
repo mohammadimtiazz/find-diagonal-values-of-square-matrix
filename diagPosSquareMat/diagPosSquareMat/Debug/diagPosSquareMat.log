@@ -1,0 +1,29 @@
+﻿Build started 12/8/2017 6:11:57 PM.
+     1>Project "C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\diagPosSquareMat\diagPosSquareMat.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\diagPosSquareMat.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\BIN\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\diagPosSquareMat.exe.embed.manifest.res" Debug\diagPosSquareMat_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\BIN\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\diagPosSquareMat.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\diagPosSquareMat.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\diagPosSquareMat.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\diagPosSquareMat.lib" /MACHINE:X86 Debug\diagPosSquareMat.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\diagPosSquareMat.exe.embed.manifest" /manifest Debug\diagPosSquareMat.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\diagPosSquareMat.exe.embed.manifest.res" Debug\diagPosSquareMat_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\BIN\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\diagPosSquareMat.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\diagPosSquareMat.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\diagPosSquareMat.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\diagPosSquareMat.lib" /MACHINE:X86 Debug\diagPosSquareMat.exe.embed.manifest.res
+         Debug\main.obj
+         diagPosSquareMat.vcxproj -> C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\Debug\diagPosSquareMat.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\diagPosSquareMat.unsuccessfulbuild".
+         Touching "Debug\diagPosSquareMat.lastbuildstate".
+     1>Done Building Project "C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\CodingPracticeProjects\diagPosSquareMat\diagPosSquareMat\diagPosSquareMat.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.84
