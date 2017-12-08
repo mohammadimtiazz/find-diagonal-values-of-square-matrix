@@ -20,3 +20,7 @@ diagonal pos1: 00, 11, 22
 doagonal pos2: 10, 11, 20
 an important fact of odd size sqaure matrix is that both diagonal share one common center
 
+diagonalDIff >> function that find or locate the diagonal positions by scaning the entire matrix
+and contain a special condition when it see both of the diagonal share one similar center
+
+diagonalDIffFast > function that find diagonal values without scanning the entire matrix. thus it is faster
